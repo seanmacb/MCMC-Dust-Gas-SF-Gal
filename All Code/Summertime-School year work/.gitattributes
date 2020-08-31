@@ -1,0 +1,4 @@
+MPAMaster.csv filter=lfs diff=lfs merge=lfs -text
+gal_line_dr7_v5_2[[:space:]](1).fit filter=lfs diff=lfs merge=lfs -text
+gal_info_dr7_v5_2[[:space:]](1).fit filter=lfs diff=lfs merge=lfs -text
+gal_AKARI_dr7_v5_2.fits filter=lfs diff=lfs merge=lfs -text
